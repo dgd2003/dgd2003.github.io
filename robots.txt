@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://dgd2003.github/sitemap.xml
